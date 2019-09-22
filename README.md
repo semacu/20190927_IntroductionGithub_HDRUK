@@ -51,7 +51,7 @@ The aim for today is to learn the basics of GitHub so that you can use it for yo
 </p>
 
 <p align="right">
-(adapted from http://phdcomics.com/comics/archive.php?comicid=1323)
+(http://phdcomics.com/comics/archive.php?comicid=1323)
 </p>
 
 The first version control systems were created by groups writing software and code. Fortunately, they can now be used not only by computer scientists (for developing computer code) but by anyone (for any type of file) :smile:
