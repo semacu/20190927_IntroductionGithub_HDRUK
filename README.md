@@ -40,7 +40,7 @@ The aim for today is to learn the basics of GitHub so that you can use it for yo
 ## What is version control? What is Git? What is GitHub?
 
 [**Version control**](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control) is the management of *changes* (a.k.a. *revisions*) to any types of information
-  - In its simplest form, creating copies and changing the scripts' file names, e.g. v1.0, v1.1, v2.0
+  - In its simplest form, creating copies and changing file names, e.g. adding v1.0, v1.1, v2.0
   - Using tools that (to some extent) incorporate version control functionality, e.g. Google Drive and Dropbox
   - Using dedicated version control tools, e.g. Git
 
