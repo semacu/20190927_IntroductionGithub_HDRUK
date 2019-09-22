@@ -166,3 +166,128 @@ Alternatively, [GitLab](https://about.gitlab.com/) uses a different business str
 - Markdown is important because GitHub automatically renders anything written in Markdown. This can be specific files (eg: README), or your comments and issues.
 
 - Some examples of Markdown syntax are available [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+
+
+
+## Practical session: working with GitHub
+
+We have four possible tutorials:
+
+- [Create a GitHub account](README.md#create-a-github-account) (+)
+- [Create your first repository](README.md#create-your-first-repository) (+)
+- [Explore your first repository and GitHub account](README.md#explore-your-first-repository-and-github-account) (++)
+- [Making changes using Git in the command-line](README.md#making-changes-using-git-in-the-command-line) (+++)
+- ... and some [extras](README.md#extras)
+
+
+### Create a GitHub account
+
+If you don't have a GitHub account already:
+
+- Go to https://github.com
+- Fill in your **Username**, **Email** and **Password**. Then click on the green button "Sign up for GitHub".
+
+<p align="center">
+<img src=../../../20171024_GitHub_Chemistry_Cambridge/blob/master/images/p1_1.png width="800">
+</p>
+
+- Choose your personal plan page. Select "Free plan" and then click on "Continue".
+
+<p align="center">
+<img src=../../../20171024_GitHub_Chemistry_Cambridge/blob/master/images/p1_2.png width="800">
+</p>
+
+- Tailor your experience page. Choose the boxes that apply to you and click on "Submit". Otherwise, just go to "skip this step".
+
+<p align="center">
+<img src=../../../20171024_GitHub_Chemistry_Cambridge/blob/master/images/p1_3.png width="800">
+</p>
+
+- You have created a GitHub account! :smile:
+
+********************************************
+
+
+### Create your first repository
+
+- If you are not already signed in, sign in to GitHub using the **Username/Email** and **Password** created before.
+- Click on the top-right "avatar icon" and select "Your profile". Have a quick browse through your page.
+
+<p align="center">
+<img src=../../../20171024_GitHub_Chemistry_Cambridge/blob/master/images/p2_1.png width="800">
+</p>
+
+- Click on the top-right "+" icon and select "New repository". **Verify your email address**. You should have just received an email from GitHub in the address provided before. Find this email and click on "Verify email address".
+
+<p align="center">
+<img src=../../../20171024_GitHub_Chemistry_Cambridge/blob/master/images/p2_2.png width="400"> <img src=../../../20171024_GitHub_Chemistry_Cambridge/blob/master/images/p2_3.png width="400">
+</p>
+
+- Create a new repository page. Fill in a "Repository name", e.g. "my_first_repository" or "my_analysis_script". Write a short description of your repository e.g. "This is a test repository". For now choose "Public" and select the box to initialize this repository with a README. Finally, click on "Create repository".
+
+<p align="center">
+<img src=../../../20171024_GitHub_Chemistry_Cambridge/blob/master/images/p2_4.png width="800">
+</p>
+
+- You created your first repository! :rocket:
+
+
+
+### Explore your first repository and GitHub account
+
+#### Your first repository
+
+- Click on **README.md** and go to the right pencil "Edit this file". Type anything to change the file, e.g. "GitHub is fun!".
+
+<p align="center">
+<img src=../../../20171024_GitHub_Chemistry_Cambridge/blob/master/images/p3_1.png width="800">
+</p>
+
+<p align="center">
+<img src=../../../20171024_GitHub_Chemistry_Cambridge/blob/master/images/p3_2.png width="800">
+</p>
+
+- Scroll down. Introduce a commit change message, e.g. "My first update", and select the radio button "Commit directly to the master branch". Then click on "Commit changes". Voilá!
+
+<p align="center">
+<img src=../../../20171024_GitHub_Chemistry_Cambridge/blob/master/images/p3_3.png width="800">
+</p>
+
+- To view your **history of commits** for **README.md**, click on **README.md** and then on the "History" button on the right.
+- Alternatively, to view your **history of commits** for your first repository, click on the name of your repository and select the tab depicting a small clock and the number of commits next to it.
+
+Bonus points (5 min):
+
+- Try to create a new file
+- In your new repository, have a look at the "Settings" tab, explore "Collaborators" and try to add the person sitting next to you.
+
+
+#### Your GitHub account
+
+- Click on your top-right "avatar" icon and select "Settings".
+
+<p align="center">
+<img src=../../../20171024_GitHub_Chemistry_Cambridge/blob/master/images/p3_4.png width="800">
+</p>
+
+- Explore the tabs "Profile", "Account" and "Emails".
+
+
+**Key glossary:**
+
+- **Repository**: it can be thought of as a project folder. A **repository** contains all of the project files, issues, wikis and more. It also stores the history and versions of each file.
+
+- **Commit**: equivalent to saving your changes to a file. When you **commit** you usually include a brief description of the changes you made so you can identify versions later if you want to undo a change.
+
+- **Branch**: an identical copy of a project at a particular point in time kept separate from the 'master' branch (primary copy). This keeps your code in the 'master' branch safe while you make changes and experiment with code on the new branch. You can merge your new branch back into the 'master' branch when you want to publish your changes.
+
+- **Master**: the default branch in your repository.
+
+- **Collaborator**: someone with read and write privileges to a repository as approved by the repository owner.
+
+
+
+
+
+
+
