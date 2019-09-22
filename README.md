@@ -155,14 +155,14 @@ Today, we will be using GitHub's online interface.
 If you want to start creating repositories in GitHub, your first need to open an account:
 
 - Public repositories are free, and can be browsed and downloaded by anyone
-- Private repositories have associated costs - see [pricing of plans](https://github.com/pricing). The developer plan costs $7/month but it is free if you are [a student or an academic](https://education.github.com/pack)
+- Private repositories have associated costs depending on the number of collaborators - see [pricing of plans](https://github.com/pricing). The individual pro and team plans cost $7/month and $9/month respectively but they are free if you are [a student or an academic](https://education.github.com/pack)
 
-Alternatively, [GitLab](https://about.gitlab.com/) uses a different business strategy with free private repositories and cost plans for public ones. There are other alternatives e.g. [Bitbucket](https://bitbucket.org/).
+Alternatively, [GitLab](https://about.gitlab.com/) uses a different business strategy with free private repositories and cost plans for public ones. There are also other alternatives e.g. [Bitbucket](https://bitbucket.org/).
 
 
 ### Markdown
 
-- GitHub uses Markdown for text edition, a language with plain text formatting syntax (bold, italics, checkboxes, lists, etc.), to render pages online (like HTML but easier). You can use this syntax in text files (.md), commit messages, issues, blog posts, and more.
+- GitHub uses Markdown for text edition, a language with plain text formatting syntax (bold, italics, checkboxes, lists, etc.), to render pages online (like HTML but easier). You can use this syntax in text files (file extension: .md), commit messages, issues, blog posts, and more.
 
 - Markdown is important because GitHub automatically renders anything written in Markdown. This can be specific files (eg: README), or your comments and issues.
 
