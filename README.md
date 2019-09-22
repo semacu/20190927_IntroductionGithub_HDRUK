@@ -208,6 +208,7 @@ If you don't have a GitHub account already:
 ********************************************
 
 
+
 ### Create your first repository
 
 - If you are not already signed in, sign in to GitHub using the **Username/Email** and **Password** created before.
@@ -230,6 +231,8 @@ If you don't have a GitHub account already:
 </p>
 
 - You created your first repository! :rocket:
+
+********************************************
 
 
 
@@ -285,9 +288,5 @@ Bonus points (5 min):
 
 - **Collaborator**: someone with read and write privileges to a repository as approved by the repository owner.
 
-
-
-
-
-
+********************************************
 
