@@ -47,7 +47,7 @@ The aim for today is to learn the basics of GitHub so that you can use it for yo
   - Using dedicated version control tools, e.g. Git
 
 <p align="center">
-<img src=images/phd052810s.gif width="800">
+<img src=images/phd052810s.gif width="600">
 </p>
 
 <p align="right">
