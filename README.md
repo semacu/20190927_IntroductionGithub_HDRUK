@@ -81,7 +81,7 @@ There are other softwares for version control similar to Git, e.g. [svn](https:/
 
 ## How can you use GitHub? How can it be useful for your work?
 
-The interfaces to GitHub are two:
+There are two interfaces to GitHub:
 
 - [Online](http://github.com/)
 
