@@ -176,7 +176,6 @@ We have four possible tutorials:
 - [Create a GitHub account](README.md#create-a-github-account) (+)
 - [Create your first repository](README.md#create-your-first-repository) (+)
 - [Explore your first repository and GitHub account](README.md#explore-your-first-repository-and-github-account) (++)
-- [Making changes using Git in the command-line](README.md#making-changes-using-git-in-the-command-line) (+++)
 - ... and some [extras](README.md#extras)
 
 
@@ -290,3 +289,67 @@ Bonus points (5 min):
 
 ********************************************
 
+
+
+### Extras
+
+- Create an issue
+- Fork a repository from another user e.g. https://github.com/githubtraining/hellogitworld, make some changes to the `README.txt` and create a pull request
+- Create a new branch, open a pull request and merge the newly created branch with the master branch
+
+
+
+## The End
+
+Many Thanks for your attention! Enjoy Git and GitHub! :octocat:
+
+Any questions about this workshop or the materials? Just email: sermarcue@gmail.com
+
+
+
+## References and materials
+
+Blogs:
+- [Beyond Basic R - Version Control with Git](https://owi.usgs.gov/blog/beyond-basic-git/)
+
+Books:
+- [Happy Git and GitHub for the R user](http://happygitwithr.com/)
+- [Git book](https://git-scm.com/book/en/v2)
+
+Courses:
+- [Open Scientific Code using Git and GitHub](https://open-source-for-researchers.github.io/open-source-workshop/) by Yo Yehudi
+- [A Friendly Introduction to GitHub](https://kirstiejane.github.io/friendly-github-intro/)
+- [Software Carpentry: Version Control with Git](http://swcarpentry.github.io/git-novice/)
+- [Resources to learn Git](http://try.github.io/)
+- [GitHub On Demand Training](https://services.github.com/on-demand/)
+- [A quick introduction to Git and GitHub](http://www.datacarpentry.org/semester-biology/materials/git-in-30-minutes/)
+
+Help:
+- GitHub [Help](https://help.github.com/)
+
+Papers:
+- Nature Methods 2018 editorial, [Easing the burden of code review](https://www.nature.com/articles/s41592-018-0137-5)
+- Perkel 2018:
+  - [When it comes to reproducible science, Git is code for success](https://www.natureindex.com/news-blog/when-it-comes-to-reproducible-science-git-is-code-for-success)
+  - [TechBlog: Git: The reproducibility tool scientists love to hate](http://blogs.nature.com/naturejobs/2018/06/11/git-the-reproducibility-tool-scientists-love-to-hate/)
+- Silver 2018 [Microsoft’s purchase of GitHub leaves some scientists uneasy](https://www.nature.com/articles/d41586-018-05426-0)
+- Russell et *al.* 2018 [A large-scale analysis of bioinformatics code on GitHub](https://www.biorxiv.org/content/early/2018/05/14/321919)
+- Perez-Riverol et *al.* 2016 [Ten Simple Rules for Taking Advantage of Git and GitHub](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004947)
+- Perkel 2016 [Democratic databases: science on GitHub](https://www.nature.com/news/democratic-databases-science-on-github-1.20719)
+- Markowetz 2015 [Five selfish reasons to work reproducibly](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0850-7)
+
+Videos:
+- [GitHub Training & Guides](https://www.youtube.com/githubguides)
+- [Git & GitHub tutorial for Beginners](https://www.youtube.com/watch?v=3RjQznt-8kE&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR)
+
+Websites:
+- [git](https://git-scm.com/)
+- [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+
+
+
+## Acknowledgements
+
+<p align="center">
+<img src=../../../20171024_GitHub_Chemistry_Cambridge/blob/master/images/UniversityCambridge_logo.png height="50"> <img src=../../../20171024_GitHub_Chemistry_Cambridge/blob/master/images/CRUKCI_logo.jpg height="50">
+</p>
