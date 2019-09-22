@@ -1,7 +1,7 @@
 
 # Introduction to GitHub
 
-<img align="right" src=../../../20181003_Intro_git_GitHub/blob/master/images/github_icon.png width="225">
+<img align="right" src=../../../20181003_Intro_git_GitHub/blob/master/images/github_icon.png width="125">
 
 - Date and time: 27th September 2019, 14:00 - 15:30
 - Location: Health Data Research UK HQ, Wellcome Trust, London, UK
