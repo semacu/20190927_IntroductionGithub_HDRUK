@@ -6,6 +6,7 @@
 - Date and time: 27th September 2019, 14:00 - 16:00
 - Location: Health Data Research UK HQ, Wellcome Trust, London, UK
 - Trainer: [Sergio](https://github.com/semacu)
+- short course url: https://tinyurl.com/2019HDR
 
 
 
@@ -33,7 +34,6 @@ The aim for today is to learn the basics of GitHub so that you can use it for yo
   - **A**ccessibility: access via any internet browser. Public (free) and private (paid) repositories model
   - **I**nteroperability: easy interaction with any operating system (Mac, Linux, Windows)
   - **R**eproducibility
-
 
 
 
@@ -75,7 +75,6 @@ Advantages of *distributed* (right) over *centralised* (left) version control sy
 Versions in Git and GitHub are identified by a *revision number*, e.g. 60363b1, also known as *commit*. Each revision is associated with a *timestamp* and the *person* making the change. Revisions can be **compared**, **restored**, and with some types of files, **merged**.
 
 There are other softwares for version control similar to Git, e.g. [svn](https://en.wikipedia.org/wiki/Apache_Subversion). Similarly, there are other online platforms similar to GitHub to share and collaborate code, e.g. [GitLab](https://about.gitlab.com/).
-
 
 
 
