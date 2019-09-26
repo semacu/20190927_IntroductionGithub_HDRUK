@@ -25,26 +25,22 @@ The aim for today is to learn the basics of GitHub so that you can use it for yo
 
 - GitHub was originally developed to manage the development of large-scale software projects e.g. Unix. Today's major user of GitHub is Microsoft, who recently acquired it.
 
-- Although designed for software management at first, it is now used for many other purposes and disciplines. Widely-used by academia, industry and government in different contexts.
+- Although designed for software management at first, it is now used for many other purposes and disciplines. Widely-used in academia, industry and government in different contexts.
 
 - Record and access the history of a project: keep track of versions during project development e.g. *the project status 10 days ago*
 
-- It is a **FAIR** tool:
-  - **F**indability: online through www.github.com and with embedded search capabilities
-  - **A**ccessibility: access via any internet browser. Public (free) and private (paid) repositories model
-  - **I**nteroperability: easy interaction with any operating system (Mac, Linux, Windows)
-  - **R**eproducibility
+- It is **findable** (repositories available online through www.github.com and with embedded search capabilities), **accessible** (via any internet browser) and **interoperable** (easy interaction with any operating system - Mac, Linux, Windows).
 
 
 
 ## What is version control? What is Git? What is GitHub?
 
 [**Version control**](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control) is the management of *changes* (a.k.a. *revisions*) to any types of information
-  - Effectively "save" your work at important points in time and come back to any of the saved points. You may lose information but can recover and go back from the mistakes as it provides offsite an backup in a remote server
-  - It makes collaboration much easier
+  - Effectively "save" your work at important points in time and come back to any of the saved points. You may lose information but can recover and go back from the mistakes as it provides offsite backup in a remote server
   - In its simplest form, creating copies and changing file names, e.g. adding v1.0, v1.1, v2.0
-  - Using tools that (to some extent) incorporate version control functionality, e.g. Google Drive and Dropbox
-  - Using dedicated version control tools, e.g. Git
+  - It makes collaboration much easier:
+    - Using tools that (to some extent) incorporate version control functionality, e.g. Google Drive and Dropbox
+    - Using dedicated version control tools, e.g. Git
 
 <p align="center">
 <img src=images/phd052810s.gif width="600">
@@ -77,7 +73,7 @@ Advantages of *distributed* (right) over *centralised* (left) version control sy
   - Tracking changes to the files and folders within your repositories
 
 
-[**GitHub**](https://github.com/) is a platform to share and showcase your work online with collaborators and the wider audience. A tool to help you build projects that are collaborative, well documented, and version-controlled. It provides you with:
+[**GitHub**](https://github.com/) is an online platform to share and showcase your work with collaborators and the wider audience. A tool to help you build projects that are collaborative, well documented, and version-controlled. It provides you with:
   - A place to host and backup your repositories online
   - A nice web interface to your repositories
   - A strategy to collaborate with colleagues
@@ -164,7 +160,7 @@ Today, we will be using GitHub's online interface.
 If you want to start creating repositories in GitHub, your first need to open an account:
 
 - Public repositories are free, and can be browsed and downloaded by anyone
-- Private repositories have associated costs depending on the number of collaborators - see [pricing of plans](https://github.com/pricing). The individual pro and team plans cost $7/month and $9/month respectively but they are free if you are [a student or an academic](https://education.github.com/pack)
+- Private repositories have associated costs depending on the number of collaborators - see [pricing of plans](https://github.com/pricing). The individual pro and team plans cost $7/month and $9/month respectively but they are free if you are [a student or an academic](https://education.github.com/pack).
 
 Alternatively, [GitLab](https://about.gitlab.com/) uses a different business strategy with free private repositories and cost plans for public ones. There are also other alternatives e.g. [Bitbucket](https://bitbucket.org/).
 
@@ -181,7 +177,7 @@ Alternatively, [GitLab](https://about.gitlab.com/) uses a different business str
 
 ## Practical session: working with GitHub
 
-We have four possible tutorials:
+We have several tutorials:
 
 - [Create a GitHub account](README.md#create-a-github-account) (+)
 - [Create your first repository](README.md#create-your-first-repository) (+)
