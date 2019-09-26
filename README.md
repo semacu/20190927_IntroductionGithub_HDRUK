@@ -308,14 +308,17 @@ Bonus points:
 (https://buildazure.com/introduction-to-git-version-control-workflow/)
 </p>
 
-
 Follow steps 5-8 in the following [page](https://kirstiejane.github.io/friendly-github-intro/exercises/my-first-repo/)
+
+********************************************
 
 
 
 ### My first pull request
 
 Follow steps 1-7 in the [following page](https://kirstiejane.github.io/friendly-github-intro/exercises/my-first-pullrequest/)
+
+********************************************
 
 
 
