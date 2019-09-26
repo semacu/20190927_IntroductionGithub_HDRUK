@@ -160,7 +160,7 @@ Today, we will be using GitHub's online interface.
 If you want to start creating repositories in GitHub, your first need to open an account:
 
 - Public repositories are free, and can be browsed and downloaded by anyone
-- Private repositories have associated costs depending on the number of collaborators - see [pricing of plans](https://github.com/pricing). The individual pro and team plans cost $7/month and $9/month respectively but they are free if you are [a student or an academic](https://education.github.com/pack).
+- Private repositories have associated costs depending on the number of collaborators - see [pricing of plans](https://github.com/pricing). The individual pro and team plans cost $7/month and $9/month respectively but they are free if you are [a student or an academic (institution)](https://education.github.com/pack).
 
 Alternatively, [GitLab](https://about.gitlab.com/) uses a different business strategy with free private repositories and cost plans for public ones. There are also other alternatives e.g. [Bitbucket](https://bitbucket.org/).
 
