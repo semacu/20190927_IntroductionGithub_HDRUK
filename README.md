@@ -6,7 +6,8 @@
 - Date and time: 26th September 2019, 14:00 - 15:30
 - Location: Health Data Research UK, Wellcome Trust, London, UK
 - Trainer: [Sergio](https://github.com/semacu)
-- course url: https://tinyurl.com/2019HDR
+- Host: [Gabriella Rustici](https://www.hdruk.ac.uk/people/dr-gabriella-rustici/)
+- Course url: https://tinyurl.com/2019HDR
 
 
 
