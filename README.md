@@ -316,7 +316,15 @@ Follow steps 5-8 in the following [page](https://kirstiejane.github.io/friendly-
 
 ### My first pull request
 
-Follow steps 1-7 in the [following page](https://kirstiejane.github.io/friendly-github-intro/exercises/my-first-pullrequest/)
+<p align="center">
+<img src=images/fork.png width="800">
+</p>
+
+<p align="right">
+(https://www.dataschool.io/simple-guide-to-forks-in-github-and-git/)
+</p>
+
+Follow steps 1-7 in the following [page](https://kirstiejane.github.io/friendly-github-intro/exercises/my-first-pullrequest/). No need to complete the *Stretch goal*.
 
 ********************************************
 
