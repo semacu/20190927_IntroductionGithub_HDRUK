@@ -183,7 +183,7 @@ We have several tutorials:
 - [Create your first repository](README.md#create-your-first-repository) (+)
 - [Explore your GitHub account and first repository](README.md#explore-your-github-account-and-first-repository) (++)
 - [Create an issue and a branch](README.md#create-an-issue-and-a-branch) (++)
-- [My first pull request](README.md#my-first-pull-request)(+++)
+- [My first pull request](README.md#my-first-pull-request) (+++)
 - [Additional tutorials](README.md#additional-tutorials)
 
 
