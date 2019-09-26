@@ -40,7 +40,7 @@ The aim for today is to learn the basics of GitHub so that you can use it for yo
   - In its simplest form, creating copies and changing file names, e.g. adding v1.0, v1.1, v2.0
   - It makes collaboration much easier:
     - Using tools that (to some extent) incorporate version control functionality, e.g. Google Drive and Dropbox
-    - Using dedicated version control tools, e.g. Git
+    - Using dedicated version control tools, e.g. Git anf GitHub
 
 <p align="center">
 <img src=images/phd052810s.gif width="600">
