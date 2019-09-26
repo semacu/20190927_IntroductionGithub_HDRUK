@@ -181,7 +181,7 @@ We have several tutorials:
 
 - [Create a GitHub account](README.md#create-a-github-account) (+)
 - [Create your first repository](README.md#create-your-first-repository) (+)
-- [Explore your first repository and GitHub account](README.md#explore-your-first-repository-and-github-account) (++)
+- [Explore your GitHub account and first repository](README.md#explore-your-github-account-and-first-repository) (++)
 - [Create an issue and a branch](README.md#create-an-issue-and-a-branch) (++)
 - [My first pull request](README.md#my-first-pull-request)(+++)
 - [Additional tutorials](README.md#additional-tutorials)
@@ -243,7 +243,7 @@ If you don't have a GitHub account already:
 
 
 
-### Explore your GitHub account and your first repository
+### Explore your GitHub account and first repository
 
 #### Your GitHub account
 
@@ -316,7 +316,7 @@ If you are more interested, try the following later:
 
 - Working locally using [GitHub Desktop](https://kirstiejane.github.io/friendly-github-intro/exercises/working-locally/)
 - Using GitHub to make [a webpage](https://open-source-for-researchers.github.io/open-source-workshop/practicalexercises/github/git-03-websites-with-github-pages)
-- [Markdown tutorial](https://www.markdowntutorial.com)
+- Markdown [tutorial](https://www.markdowntutorial.com)
 
 
 
