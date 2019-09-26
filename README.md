@@ -300,7 +300,16 @@ Bonus points:
 
 ### Create an issue and a branch
 
-Follow steps 5-8 in the [following page](https://kirstiejane.github.io/friendly-github-intro/exercises/my-first-repo/)
+<p align="center">
+<img src=images/branch.png width="800">
+</p>
+
+<p align="right">
+(https://buildazure.com/introduction-to-git-version-control-workflow/)
+</p>
+
+
+Follow steps 5-8 in the following [page](https://kirstiejane.github.io/friendly-github-intro/exercises/my-first-repo/)
 
 
 
