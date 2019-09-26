@@ -3,7 +3,7 @@
 
 <img align="right" src=../../../20181003_Intro_git_GitHub/blob/master/images/github_icon.png width="125">
 
-- Date and time: 27th September 2019, 14:00 - 16:00
+- Date and time: 27th September 2019, 14:00 - 15:30
 - Location: Health Data Research UK, Wellcome Trust, London, UK
 - Trainer: [Sergio](https://github.com/semacu)
 - short course url: https://tinyurl.com/2019HDR
