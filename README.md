@@ -182,7 +182,9 @@ We have several tutorials:
 - [Create a GitHub account](README.md#create-a-github-account) (+)
 - [Create your first repository](README.md#create-your-first-repository) (+)
 - [Explore your first repository and GitHub account](README.md#explore-your-first-repository-and-github-account) (++)
-- ... and some [extras](README.md#extras)
+- [Create an issue and a branch](README.md#create-an-issue-and-a-branch) (++)
+- [My first pull request](README.md#my-first-pull-request)(+++)
+- [Additional tutorials](README.md#additional-tutorials)
 
 
 ### Create a GitHub account
@@ -241,7 +243,18 @@ If you don't have a GitHub account already:
 
 
 
-### Explore your first repository and GitHub account
+### Explore your GitHub account and your first repository
+
+#### Your GitHub account
+
+- Click on your top-right "avatar" icon and select "Settings".
+
+<p align="center">
+<img src=../../../20171024_GitHub_Chemistry_Cambridge/blob/master/images/p3_4.png width="800">
+</p>
+
+- Explore the tabs "Profile", "Account" and "Emails".
+
 
 #### Your first repository
 
@@ -264,22 +277,10 @@ If you don't have a GitHub account already:
 - To view your **history of commits** for **README.md**, click on **README.md** and then on the "History" button on the right.
 - Alternatively, to view your **history of commits** for your first repository, click on the name of your repository and select the tab depicting a small clock and the number of commits next to it.
 
-Bonus points (5 min):
+Bonus points:
 
-- Try to create a new file
-- In your new repository, have a look at the "Settings" tab, explore "Collaborators" and try to add the person sitting next to you.
-
-
-#### Your GitHub account
-
-- Click on your top-right "avatar" icon and select "Settings".
-
-<p align="center">
-<img src=../../../20171024_GitHub_Chemistry_Cambridge/blob/master/images/p3_4.png width="800">
-</p>
-
-- Explore the tabs "Profile", "Account" and "Emails".
-
+- Try to create a second new file and add some content to it
+- In your new repository, have a look at the "Settings" tab, explore "Collaborators" and try adding one of your colleagues
 
 **Key glossary:**
 
@@ -297,11 +298,26 @@ Bonus points (5 min):
 
 
 
-### Extras
+### Create an issue and a branch
 
-- Create an issue
-- Fork a repository from another user e.g. https://github.com/githubtraining/hellogitworld, make some changes to the `README.txt` and create a pull request
-- Create a new branch, open a pull request and merge the newly created branch with the master branch
+Follow steps 5-8 in the [following page](https://kirstiejane.github.io/friendly-github-intro/exercises/my-first-repo/)
+
+
+
+### My first pull request
+
+Follow steps 1-7 in the [following page](https://kirstiejane.github.io/friendly-github-intro/exercises/my-first-pullrequest/)
+
+
+
+### Additional tutorials
+
+If you are more interested, try the following later:
+
+- Working locally using [GitHub Desktop](https://kirstiejane.github.io/friendly-github-intro/exercises/working-locally/)
+- Using GitHub to make [a webpage](https://open-source-for-researchers.github.io/open-source-workshop/practicalexercises/github/git-03-websites-with-github-pages)
+- [Markdown tutorial](https://www.markdowntutorial.com)
+
 
 
 
@@ -309,7 +325,7 @@ Bonus points (5 min):
 
 Many Thanks for your attention! Enjoy Git and GitHub! :octocat:
 
-Any questions about this workshop or the materials? Just email: sermarcue@gmail.com
+Any questions/suggestions about this workshop or the materials? Just email me at: sermarcue@gmail.com
 
 
 
